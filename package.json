@@ -1,0 +1,29 @@
+{
+  "name": "word-model-tests",
+  "version": "0.0.1",
+  "description": "Bootcamp world models tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikkunaEdu/word-model-tests.git"
+  },
+  "keywords": [
+    "nlp",
+    "bootcamp",
+    "word2vec"
+  ],
+  "author": "Diego Correa T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikkunaEdu/word-model-tests/issues"
+  },
+  "homepage": "https://github.com/ikkunaEdu/word-model-tests#readme",
+  "dependencies": {
+    "csv-escaped-stream": "^0.2.1",
+    "stopwords-iso": "^0.4.0",
+    "word-models": "git+https://github.com/Ikkuna/word-models.git#devel"
+  }
+}
